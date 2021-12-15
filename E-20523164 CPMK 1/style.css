@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    margin: auto;
+    width: 80%;
+    min-width: 700px;
+    background-color: #ffffff;
+    border: 1px double #000000;
+}
+.item_logo{
+    justify-content: center;
+    text-align: center;
+    padding: 30px;
+    border-bottom: 2px double #000000;
+    border-top: 2px solid #000000;
+    background-color: #F0E5CC;
+}
+.left_coloum{
+    background-color: rgb(255, 255, 255);
+    width: 10em;
+    float: left;
+    padding-left: 2px;
+    margin-left: 0;
+    margin-top: 0;
+    font-size: 14px;
+}
+.link_item{
+    list-style: none;
+    font-size: 14px;
+}
+.item {
+    margin: 20px 1px;
+    text-decoration: none;
+    display: block;
+    font-size: 14px;
+}
+.right_coloum{
+    background-color: #C6F7DF;
+    margin-left: 162px;
+    padding-left: 5px;
+    
+}
+.img_logo{
+    padding-left: 30em;  
+    float: left; 
+}
+.header{
+    background-color: #4079c5;
+    width: 40%;
+}
+.header_registrasi{
+    text-align: center;
+}
+.input_group{
+    display: block;
+    margin-bottom: 0.5em;
+    width: 100%;
+}
+.input_label{
+    display: inline;
+    margin-bottom: 0.3em;
+    font-size: 14px;
+}
+
+.footer {
+    border-top: 2px double #000000;
+    padding: 20px 0 20px 0;
+    background-color: #F0E5CC;
+    color: #000000;
+    font-size: xx-small;
+    font-style: italic;
+    text-align: center; 
+}
+.text_right{
+    padding: 10px;
+}
+.text_right2{
+    padding-left: 40px ;
+}
+
